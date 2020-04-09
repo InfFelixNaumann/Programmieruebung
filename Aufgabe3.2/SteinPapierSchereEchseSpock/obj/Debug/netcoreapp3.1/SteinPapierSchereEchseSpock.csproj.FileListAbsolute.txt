@@ -1,0 +1,13 @@
+C:\Users\feli-\OneDrive\Desktop\Programmierung\noch nicht abgegeben\Aufgabe3\Aufgabe3.2\SteinPapierSchereEchseSpock\bin\Debug\netcoreapp3.1\SteinPapierSchereEchseSpock.exe
+C:\Users\feli-\OneDrive\Desktop\Programmierung\noch nicht abgegeben\Aufgabe3\Aufgabe3.2\SteinPapierSchereEchseSpock\bin\Debug\netcoreapp3.1\SteinPapierSchereEchseSpock.deps.json
+C:\Users\feli-\OneDrive\Desktop\Programmierung\noch nicht abgegeben\Aufgabe3\Aufgabe3.2\SteinPapierSchereEchseSpock\bin\Debug\netcoreapp3.1\SteinPapierSchereEchseSpock.runtimeconfig.json
+C:\Users\feli-\OneDrive\Desktop\Programmierung\noch nicht abgegeben\Aufgabe3\Aufgabe3.2\SteinPapierSchereEchseSpock\bin\Debug\netcoreapp3.1\SteinPapierSchereEchseSpock.runtimeconfig.dev.json
+C:\Users\feli-\OneDrive\Desktop\Programmierung\noch nicht abgegeben\Aufgabe3\Aufgabe3.2\SteinPapierSchereEchseSpock\bin\Debug\netcoreapp3.1\SteinPapierSchereEchseSpock.dll
+C:\Users\feli-\OneDrive\Desktop\Programmierung\noch nicht abgegeben\Aufgabe3\Aufgabe3.2\SteinPapierSchereEchseSpock\bin\Debug\netcoreapp3.1\SteinPapierSchereEchseSpock.pdb
+C:\Users\feli-\OneDrive\Desktop\Programmierung\noch nicht abgegeben\Aufgabe3\Aufgabe3.2\SteinPapierSchereEchseSpock\obj\Debug\netcoreapp3.1\SteinPapierSchereEchseSpock.csprojAssemblyReference.cache
+C:\Users\feli-\OneDrive\Desktop\Programmierung\noch nicht abgegeben\Aufgabe3\Aufgabe3.2\SteinPapierSchereEchseSpock\obj\Debug\netcoreapp3.1\SteinPapierSchereEchseSpock.csproj.CoreCompileInputs.cache
+C:\Users\feli-\OneDrive\Desktop\Programmierung\noch nicht abgegeben\Aufgabe3\Aufgabe3.2\SteinPapierSchereEchseSpock\obj\Debug\netcoreapp3.1\SteinPapierSchereEchseSpock.AssemblyInfoInputs.cache
+C:\Users\feli-\OneDrive\Desktop\Programmierung\noch nicht abgegeben\Aufgabe3\Aufgabe3.2\SteinPapierSchereEchseSpock\obj\Debug\netcoreapp3.1\SteinPapierSchereEchseSpock.AssemblyInfo.cs
+C:\Users\feli-\OneDrive\Desktop\Programmierung\noch nicht abgegeben\Aufgabe3\Aufgabe3.2\SteinPapierSchereEchseSpock\obj\Debug\netcoreapp3.1\SteinPapierSchereEchseSpock.dll
+C:\Users\feli-\OneDrive\Desktop\Programmierung\noch nicht abgegeben\Aufgabe3\Aufgabe3.2\SteinPapierSchereEchseSpock\obj\Debug\netcoreapp3.1\SteinPapierSchereEchseSpock.pdb
+C:\Users\feli-\OneDrive\Desktop\Programmierung\noch nicht abgegeben\Aufgabe3\Aufgabe3.2\SteinPapierSchereEchseSpock\obj\Debug\netcoreapp3.1\SteinPapierSchereEchseSpock.genruntimeconfig.cache
